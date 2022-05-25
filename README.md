@@ -1,4 +1,4 @@
-# The Village Counter
+# The V Counter
 
 
-Welcome to the village counter! Just click and compare results after each all-hands session!
+Welcome to the v counter! Just click and compare results after each session!
